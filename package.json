@@ -1,0 +1,13 @@
+{
+  "name": "generative-surfboards",
+  "version": "1.0.0",
+  "description": "generates vector surfboards for plotting",
+  "main": "index.js",
+  "author": "David Hamp-Gonsalves <davidhampgonsalves@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "paper-jsdom": "^0.12.4",
+    "uniqid": "^5.2.0"
+  }
+}
