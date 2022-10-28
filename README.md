@@ -1,8 +1,13 @@
-# Generative Surfboards
-Generates random vector surfboard shapes & designs, intended for pen plotting.
+<p style="text-align:center">
+  <img src="header.png" width="100%">
+</p>
+Procedurally generated, vector based surfboards.
+
+## About
+During one of many discussions on the merrits and compromises of various surfboard designs I decided it would be fun to procedurally generate some with the tropes and visual stylings of what was popular at the time. I aimed for the end result to be thought provoking but also visually appealing appealing enough to hang on the wall.
 
 <p style="text-align:center">
-  <img src="https://github.com/davidhampgonsalves/generative-surfboards/blob/master/sample.png" width="100%">
+  <img src="sample.png" width="100%">
 </p>
 
 ## Setup
